@@ -1,0 +1,39 @@
+html,
+body {
+    background-color: black;
+    background-image: url("dado.jpg");
+
+}
+
+center {
+    background-color: rgb(235, 179, 106);
+    border: solid 3px rgb(196, 133, 51);
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+}
+
+#random09 {
+    background-color: rgb(235, 179, 106);
+    border: solid 3px rgb(196, 133, 51);
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 30%;
+    height: 60px;
+    text-align: center;
+} 
+
+#random99 {
+    background-color: rgb(235, 179, 106);
+    border: solid 3px rgb(196, 133, 51);
+    border-radius: 30px;
+    margin: 0 auto;
+    width: 30%;
+    height: 60px;
+    text-align: center;
+}
+
+input {
+    margin-top: 2%;
+}
